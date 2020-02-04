@@ -5,7 +5,7 @@
 
 La mejor manera de confirmar que has leído y saben usar la guía [Cómo
 hacer una
-asignación](https://github.com/maestria-geotel-master/material-de-apoyo/blob/master/ref/como-hacer-una-asignacion.md),
+asignación](https://github.com/geomorfologia-master/material-de-apoyo/blob/master/ref/como-hacer-una-asignacion.md),
 es precisamente solicitándote hacer una asignación en la que sigas los
 pasos explicados. *Vamo’ al mambo*
 
@@ -13,7 +13,7 @@ pasos explicados. *Vamo’ al mambo*
 
   - PC con conexión a internet.
   - Guía [Cómo hacer una
-    asignación](https://github.com/maestria-geotel-master/material-de-apoyo/blob/master/ref/como-hacer-una-asignacion.md).
+    asignación](https://github.com/geomorfologia-master/material-de-apoyo/blob/master/ref/como-hacer-una-asignacion.md).
     Manten la guía en pantalla para posteriores consultas. Puedes
     organizar lateralmente la asignación y la guía para tenerlas ambas
     visibles. En caso contrario, recuerda que la combinación de teclas
@@ -25,7 +25,7 @@ pasos explicados. *Vamo’ al mambo*
 
 En la guía, ve a la sección **Realiza tu asignación**, subsección
 [**Usando
-RStudio**](https://github.com/maestria-geotel-master/material-de-apoyo/blob/master/ref/como-hacer-una-asignacion.md#usando-rstudio).
+RStudio**](https://github.com/geomorfologia-master/material-de-apoyo/blob/master/ref/como-hacer-una-asignacion.md#usando-rstudio).
 Sigue los pasos para hacer lo siguiente:
 
 1.  Abre RStudio.
@@ -45,7 +45,7 @@ Sigue los pasos para hacer lo siguiente:
 ## Notifícame que has terminado
 
 En la guía, ve a la sección [**Notifícame que has
-terminado**](https://github.com/maestria-geotel-master/material-de-apoyo/blob/master/ref/como-hacer-una-asignacion.md#notif%C3%ADcame-que-has-terminado).
+terminado**](https://github.com/geomorfologia-master/material-de-apoyo/blob/master/ref/como-hacer-una-asignacion.md#notif%C3%ADcame-que-has-terminado).
 Sigue los pasos que allí se indican para hacer lo siguiente:
 
 1.  Abre la interfaz web de GitHub y localiza el repo de esta
@@ -57,7 +57,7 @@ Sigue los pasos que allí se indican para hacer lo siguiente:
 ## Crea un *issue*
 
 En la guía, ve a la sección [**Pide ayuda creando un *issue* o
-incidencia**](https://github.com/maestria-geotel-master/material-de-apoyo/blob/master/ref/como-hacer-una-asignacion.md#pide-ayuda-creando-un-issue-o-incidencia).
+incidencia**](https://github.com/geomorfologia-master/material-de-apoyo/blob/master/ref/como-hacer-una-asignacion.md#pide-ayuda-creando-un-issue-o-incidencia).
 Sigue los pasos para hacer lo siguiente:
 
 1.  Crea un *issue*.
